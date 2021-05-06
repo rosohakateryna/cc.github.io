@@ -29,7 +29,7 @@
     "immutable": "^4.0.0-rc.12",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
-    "react-draft-wysiwyg": "^1.12.20",
+    "react-draft-wysiwyg": "^1.14.6",
     "react-render-html": "^0.6.0",
     "react-responsive-modal": "^3.5.1",
     "react-router-dom": "^4.3.1",
